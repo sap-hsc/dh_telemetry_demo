@@ -1,0 +1,9 @@
+Material,Mac,Thres1,VendorID,VendorName
+MZ-RM-M520-06,c234be274d3f,180,100540,Lord Vendor of Brakes 
+MZ-RM-C950-06,f9dbec446bf0,320,100542,Energy Brakes
+MZ-RM-M525-06,c125d4e2e476,344,100543,Flow Brakes
+MZ-RM-C990-06,d14df41fd056,380,100544,East Side Brakes
+MZ-TG-A120,c234be274d3f,3600,101502,West Side PW Storage
+MZ-TG-TP1-A130,f9dbec446bf0,4000,101503,Dynamo Batteries
+MZ-TG-TP1-A131,c125d4e2e476,4200,101504,Energy Batteries
+MZ-TG-TP1-A130,d14df41fd056,4600,101505,Power Batt
