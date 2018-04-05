@@ -1,0 +1,7 @@
+import data
+into table "SYSTEM"."RACE_RESULTS_LOCAL"
+from 'data'
+    record delimited by '\n'
+    field delimited by ','
+    optionally enclosed by '"'
+error log 'data.err'
