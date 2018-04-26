@@ -1,7 +1,0 @@
-import data
-into table "SYSTEM"."CAR_TELEMETRY_EXTRACT_LOCAL"
-from 'data'
-    record delimited by '\n'
-    field delimited by ','
-    optionally enclosed by '"'
-error log 'data.err'
