@@ -1,1 +1,4 @@
 car_telemetry_solution
+car_telemetry_solution/C_HDFS_MAT_JOIN.csv
+car_telemetry_solution/C_HDFS_MAT_JOIN.csv/_SUCCESS
+car_telemetry_solution/C_HDFS_MAT_JOIN.csv/part-00000-f8da43a9-964a-47a5-b86f-3956837a3592.csv
